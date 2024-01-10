@@ -15,7 +15,7 @@ Download a list of proxies (ex. https://free-proxy-list.net/):
 Create a text file containing a list of proxies, one per line (e.g., proxy_list.txt).
 Run the db_module.py script to create the necessary tables for storing proxies.
 Run the main script. 
-The script will fetch real estate offers from Otodom, extract relevant information, and store it in a CSV file named oto_dom_wroclaw_dd_mm_yyyy. You can modify 
+The script will fetch real estate offers from Otodom, extract relevant information, and store it in a CSV file named oto_dom_wroclaw_dd_mm_yyyy.
 
 # Disclaimer!
 This script is intended for educational and personal use only. Be respectful of the website's terms of service, and ensure compliance with legal and ethical standards when web scraping. The rotating proxy feature is included to minimize the risk of IP blocking, but usage should be within acceptable limits to avoid causing disruptions to the target website. Use at your own discretion.
