@@ -14,7 +14,7 @@ Set up the SQLite database:
 Download a list of proxies (ex. https://free-proxy-list.net/):
 Create a text file containing a list of proxies, one per line (e.g., proxy_list.txt).
 Run the db_module.py script to create the necessary tables for storing proxies.
-Run the main script. 
+Run the web_scraper.py 
 The script will fetch real estate offers from Otodom, extract relevant information, and store it in a CSV file named oto_dom_wroclaw_dd_mm_yyyy.
 
 # Disclaimer!
