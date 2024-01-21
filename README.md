@@ -1,5 +1,5 @@
 ## Web Scraper with Rotating Proxy and SQLite Database
-This Python script is a web scraper designed to extract information about real estate offers from the Otodom website in Wroclaw, Poland. It utilizes rotating proxies for web scraping to avoid IP bans and a SQLite database for managing proxy lists. Due to frequent changes in CSS tags, the code may need to be modified before use.
+This Python script is a web scraper designed to extract information about real estate offers in Wroclaw, Poland. It utilizes rotating proxies for web scraping to avoid IP bans and a SQLite database for managing proxy lists. Due to frequent changes in CSS tags, the code may need to be modified before use.
 
 ## Features
 Rotating proxies to prevent IP blocking during web scraping.
